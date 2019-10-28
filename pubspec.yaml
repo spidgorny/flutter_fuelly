@@ -25,6 +25,7 @@ dependencies:
   cupertino_icons: ^0.1.2
   adv_camera: ^0.0.6
   permission_handler: '^3.3.0'
+  get_it: ^3.0.3
 
 dev_dependencies:
   flutter_test:
